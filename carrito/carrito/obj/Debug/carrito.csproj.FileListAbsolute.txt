@@ -1,0 +1,15 @@
+C:\Users\OscarEstid\source\repos\carrito\carrito\bin\Debug\carrito.exe.config
+C:\Users\OscarEstid\source\repos\carrito\carrito\bin\Debug\carrito.exe
+C:\Users\OscarEstid\source\repos\carrito\carrito\bin\Debug\carrito.pdb
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.Form1.resources
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.Properties.Resources.resources
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.csproj.GenerateResource.cache
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.exe
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.pdb
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\Interop.WMPLib.dll
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OscarEstid\source\repos\carrito\carrito\obj\Debug\carrito.csproj.ResolveComReference.cache
+C:\Users\OscarEstid\source\repos\carrito\carrito\bin\Debug\Interop.WMPLib.dll
+C:\Users\OscarEstid\source\repos\carrito\carrito\bin\Debug\AxInterop.WMPLib.dll
